@@ -4,7 +4,7 @@ public class Main {
 
         Speaker speaker = new Speaker();
 
-        speaker.speak("Hello CS three zero one students.");
+        speaker.speak("Hello from GitHub Actions!");
 
         speaker.speak("This project demonstrates Gradle and Make.");
     }
